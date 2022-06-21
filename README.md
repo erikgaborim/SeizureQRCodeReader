@@ -13,7 +13,7 @@ App that should be used to scan the seizure QRCodes of the <a href="https://www.
 2. Build the app;
 3. Then, you just need to be online to scan the seizure QRCodes and its information.
 
-## Tecnologies used
+## Main Tecnologies used
   
 <div align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -21,3 +21,12 @@ App that should be used to scan the seizure QRCodes of the <a href="https://www.
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   &ensp;&nbsp;&emsp;
 </div>
+
+## Other Tecnologies used
+
+- <a href="https://github.com/zxing/zxing">ZXing</a>
+- <a href="https://square.github.io/retrofit/">Retrofit</a>
+
+## Requirements for use
+
+- Android 7.1 or higher
