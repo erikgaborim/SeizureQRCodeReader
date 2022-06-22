@@ -13,6 +13,10 @@ App that should be used to scan the seizure QRCodes of the <a href="https://www.
 2. Build the app;
 3. Then, you just need to be online to scan the seizure QRCodes and its information.
 
+## Screens
+
+![main_screen](https://user-images.githubusercontent.com/erikgaborim/SeizureQRCodeReader/main/.github/images/print1.jpeg)
+
 ## Main Tecnologies used
   
 <div align="center">
