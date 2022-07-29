@@ -1,17 +1,17 @@
 <div align="center">
   <h1>Seizure QRCode Reader</h1>
-  <p>App to read the QR Code of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> seizure and show its information.</p>
+  <p>App to read the QRCode of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> seizure and show its information.</p>
 </div>
 
 ## What's the project?
   
-App that should be used to scan the seizure QR Codes of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> system and show the information of the scanned seizure QR Code.
+App that should be used to scan the seizure QRCodes of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> system and show the information of the scanned seizure QRCode.
 
 ## Settings to use it
   
 1. In the file "http/RetrofitService.java", insert your server IP address in the indicated place;
 2. Build the app;
-3. Then, you just need to be online to scan the seizure QR Codes and its information.
+3. Then, you just need to be online to scan the seizure QRCodes and its information.
 ##### Obs: If your server is not available on the internet, your smartphone needs to be connected to the same network as your server.
 
 ## Screens
