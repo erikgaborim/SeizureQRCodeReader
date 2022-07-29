@@ -5,7 +5,7 @@
 
 ## What's the project?
   
-App that should be used to scan the seizure QRCodes of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> system.
+App that should be used to scan the seizure QRCodes of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> system and show the information of the scanned seizure QRCode.
 
 ## Settings to use it?
   
