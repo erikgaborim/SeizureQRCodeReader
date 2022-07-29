@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Seizure QRCode Reader</h1>
-  <p>App to read the QRCode of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> seizure and show its information.</p>
+  <p>App to read the QR Code of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> seizure and show its information.</p>
 </div>
 
 ## What's the project?
