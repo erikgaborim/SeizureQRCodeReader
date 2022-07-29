@@ -7,7 +7,7 @@
   
 App that should be used to scan the seizure QRCodes of the <a href="https://www.github.com/erikgaborim/SeizureController" >SeizureController</a> system and show the information of the scanned seizure QRCode.
 
-## Settings to use it?
+## Settings to use it
   
 1. In the file "http/RetrofitService.java", insert your server IP address in the indicated place;
 2. Build the app;
